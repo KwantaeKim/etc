@@ -1,19 +1,22 @@
-/* CSS Script / Version: 2024-05-12 */
+/* Kwantae Kim */
+/* CSS script for Markdown */
+/* Last update: 27.Feb.2025 */
+
 h1 {
   font-weight: bold;
-  padding: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
   box-shadow: -8px 0px 0px 0px #f9d142;
 }
 h2 {
   font-weight: bold;
-  padding: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
   box-shadow: -8px 0px 0px 0px #1a7a4c;
 }
 h3 {
-  padding: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
   box-shadow: -8px 0px 0px 0px #135079;
 }
 h4 {
-  padding: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
   box-shadow: -8px 0px 0px 0px #4a4a4a;
 }
