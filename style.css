@@ -4,19 +4,19 @@
 
 h1 {
   font-weight: bold;
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 10px;
   box-shadow: -8px 0px 0px 0px #f9d142;
 }
 h2 {
   font-weight: bold;
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 10px;
   box-shadow: -8px 0px 0px 0px #1a7a4c;
 }
 h3 {
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 10px;
   box-shadow: -8px 0px 0px 0px #135079;
 }
 h4 {
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 10px;
   box-shadow: -8px 0px 0px 0px #4a4a4a;
 }
